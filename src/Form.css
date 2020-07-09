@@ -1,0 +1,21 @@
+.pict{
+    width: 15cm;
+    height: 15cm;
+    position: fixed;
+    margin-left: 13cm;
+    
+    
+}
+.type{
+    margin-left: 19cm;  
+    font-style: oblique;
+    z-index: 2;
+    margin-right: 10cm;
+    position: fixed;
+    margin-top: 4cm;
+}
+/* .align{
+    width: 5cm;
+    height: 10cm;
+    position: relative;
+} */
