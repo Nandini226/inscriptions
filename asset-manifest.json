@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/inscription/static/css/main.31334d18.chunk.css",
+    "main.js": "/inscription/static/js/main.ec0a7d52.chunk.js",
+    "main.js.map": "/inscription/static/js/main.ec0a7d52.chunk.js.map",
+    "runtime-main.js": "/inscription/static/js/runtime-main.3dbcd77b.js",
+    "runtime-main.js.map": "/inscription/static/js/runtime-main.3dbcd77b.js.map",
+    "static/js/2.8c4af460.chunk.js": "/inscription/static/js/2.8c4af460.chunk.js",
+    "static/js/2.8c4af460.chunk.js.map": "/inscription/static/js/2.8c4af460.chunk.js.map",
+    "index.html": "/inscription/index.html",
+    "precache-manifest.ec56f6856683189ee96ba468981fcb57.js": "/inscription/precache-manifest.ec56f6856683189ee96ba468981fcb57.js",
+    "service-worker.js": "/inscription/service-worker.js",
+    "static/css/main.31334d18.chunk.css.map": "/inscription/static/css/main.31334d18.chunk.css.map",
+    "static/js/2.8c4af460.chunk.js.LICENSE.txt": "/inscription/static/js/2.8c4af460.chunk.js.LICENSE.txt",
+    "static/media/KR Declaration.ttf": "/inscription/static/media/KR Declaration.d3c1bf32.ttf",
+    "static/media/KR ReadMe.txt": "/inscription/static/media/KR ReadMe.c65e44c3.txt",
+    "static/media/img.jpg": "/inscription/static/media/img.91dfc7ce.jpg",
+    "static/media/img1.jpg": "/inscription/static/media/img1.f7d97046.jpg",
+    "static/media/img2.jpg": "/inscription/static/media/img2.8140331c.jpg",
+    "static/media/img3.jpg": "/inscription/static/media/img3.028f104f.jpg",
+    "static/media/logo.svg": "/inscription/static/media/logo.5d5d9eef.svg",
+    "static/media/template10.jpg": "/inscription/static/media/template10.e17f8f77.jpg",
+    "static/media/template12.jpg": "/inscription/static/media/template12.304fc220.jpg",
+    "static/media/template13.jpg": "/inscription/static/media/template13.99362e75.jpg",
+    "static/media/template14.jpg": "/inscription/static/media/template14.4d7c4a51.jpg",
+    "static/media/template2.jpg": "/inscription/static/media/template2.1ae2855f.jpg",
+    "static/media/template3.jpg": "/inscription/static/media/template3.1f5a62ae.jpg",
+    "static/media/template6.jpg": "/inscription/static/media/template6.4c272d06.jpg",
+    "static/media/template7.jpg": "/inscription/static/media/template7.028f104f.jpg",
+    "static/media/template8.jpg": "/inscription/static/media/template8.bee34849.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dbcd77b.js",
+    "static/js/2.8c4af460.chunk.js",
+    "static/css/main.31334d18.chunk.css",
+    "static/js/main.ec0a7d52.chunk.js"
+  ]
+}
